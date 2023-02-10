@@ -1,2 +1,1 @@
-# gstreamer-app-boilerplate
-Gstreamer Application Bolierplate
+# Gstreamer Application Boilerplate
